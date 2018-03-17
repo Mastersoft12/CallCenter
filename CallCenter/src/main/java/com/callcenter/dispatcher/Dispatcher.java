@@ -94,7 +94,7 @@ public class Dispatcher {
 	 * @return
 	 */
 	private int buscarEmpleadosOcupados() {
-		return EmpleadoThread.activeCount();
+		return EmpleadoThread.activeCount()-1;
 	}
 
 	public void iniciarVariables() {
