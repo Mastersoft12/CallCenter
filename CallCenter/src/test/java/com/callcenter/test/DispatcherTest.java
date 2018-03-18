@@ -1,19 +1,16 @@
 package com.callcenter.test;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.function.Supplier;
-
-import org.junit.Test;
-
 import com.callcenter.dispatcher.Dispatcher;
 import com.callcenter.dto.PeticionDTO;
 import com.callcenter.dto.RespuestaDTO;
 import com.callcenter.utilidad.UtilidadLlamada;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Supplier;
+import static org.hamcrest.CoreMatchers.is;
+import static org.junit.Assert.assertThat;
+import org.junit.Test;
 
-import junit.framework.Assert;
-
-@SuppressWarnings("deprecation")
 public class DispatcherTest {
 
     @Test
@@ -26,7 +23,7 @@ public class DispatcherTest {
         for (PeticionDTO peticion : listPeticion) {
             respuesta = call.dispatchCall(peticion);
         }
-        Assert.assertTrue(respuesta.isAtendido());
+        assertThat(respuesta.isAtendido(), is(true));
     }
 
    

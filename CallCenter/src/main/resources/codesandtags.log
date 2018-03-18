@@ -1794,3 +1794,73 @@
 8915 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-18 09:06:09
 9281 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-18 09:06:09
 9653 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-18 09:06:09
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 10:15:15
+0    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 10:15:15
+0    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 10:15:15
+0    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 10:15:15
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 10:15:15
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 10:15:15
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 10:15:15
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 10:15:15
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 10:15:15
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 10:15:15
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 10:15:34
+8    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 10:15:34
+8    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 10:15:34
+8    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 10:15:34
+8    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 10:15:34
+8    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 10:15:34
+8    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 10:15:34
+8    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 10:15:34
+4    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 10:15:34
+4    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 10:15:34
+5514 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-18 10:15:39
+6018 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-18 10:15:40
+6319 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-18 10:15:40
+6775 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-18 10:15:41
+7490 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-18 10:15:41
+8155 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-18 10:15:42
+8564 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-18 10:15:42
+8827 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-18 10:15:43
+9262 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-18 10:15:43
+9602 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-18 10:15:43
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 10:16:59
+16   [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 10:17:00
+42   [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 10:17:00
+55   [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 10:17:00
+55   [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 10:17:00
+56   [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 10:17:00
+56   [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 10:17:00
+56   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 10:17:00
+57   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 10:17:00
+57   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 10:17:00
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 10:19:06
+0    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 10:19:06
+0    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 10:19:06
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 10:19:06
+0    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 10:19:06
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 10:19:06
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 10:19:06
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 10:19:06
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 10:19:06
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 10:19:06
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 10:21:21
+4    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 10:21:21
+4    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 10:21:21
+11   [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 10:21:21
+11   [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 10:21:21
+12   [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 10:21:21
+12   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 10:21:21
+13   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 10:21:21
+14   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 10:21:21
+4    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 10:21:21
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 10:30:50
+15   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 10:30:50
+15   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 10:30:50
+15   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 10:30:50
+15   [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 10:30:50
+15   [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 10:30:50
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 10:30:50
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 10:30:50
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 10:30:50
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 10:30:50
