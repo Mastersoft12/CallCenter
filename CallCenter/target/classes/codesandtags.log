@@ -820,3 +820,955 @@
 7677 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:29:17
 0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:30:12
 8466 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:30:20
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Fabio Martinez Torres a las: 2018-03-16 20:35:03
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Jose a las: 2018-03-16 20:35:03
+2    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Jose Rafael a las: 2018-03-16 20:35:03
+1    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Alejandra a las: 2018-03-16 20:35:03
+1    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Angela a las: 2018-03-16 20:35:03
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Isabella a las: 2018-03-16 20:35:03
+4    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Gladys a las: 2018-03-16 20:35:03
+5    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Luisa a las: 2018-03-16 20:35:03
+5    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Rafael a las: 2018-03-16 20:35:03
+6    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Lina a las: 2018-03-16 20:35:03
+7    [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Elsa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+5279 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Jose se termino de atender a las: 2018-03-16 20:35:09
+5279 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Elsa a las: 2018-03-16 20:35:09
+7573 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Gladys se termino de atender a las: 2018-03-16 20:35:11
+7789 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Alejandra se termino de atender a las: 2018-03-16 20:35:11
+7833 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Jose Rafael se termino de atender a las: 2018-03-16 20:35:11
+8514 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Luisa se termino de atender a las: 2018-03-16 20:35:12
+8674 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Rafael se termino de atender a las: 2018-03-16 20:35:12
+8736 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Angela se termino de atender a las: 2018-03-16 20:35:12
+8857 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Fabio Martinez Torres se termino de atender a las: 2018-03-16 20:35:12
+9695 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Isabella se termino de atender a las: 2018-03-16 20:35:13
+9928 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Lina se termino de atender a las: 2018-03-16 20:35:13
+13448 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Elsa se termino de atender a las: 2018-03-16 20:35:17
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Fabio Martinez Torres a las: 2018-03-16 20:46:49
+1    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Jose a las: 2018-03-16 20:46:49
+1    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Jose Rafael a las: 2018-03-16 20:46:49
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Alejandra a las: 2018-03-16 20:46:49
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Angela a las: 2018-03-16 20:46:49
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Isabella a las: 2018-03-16 20:46:49
+2    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Gladys a las: 2018-03-16 20:46:49
+3    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Luisa a las: 2018-03-16 20:46:49
+4    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Rafael a las: 2018-03-16 20:46:49
+4    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Lina a las: 2018-03-16 20:46:49
+4    [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Elsa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+5385 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Alejandra se termino de atender a las: 2018-03-16 20:46:54
+5386 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Elsa a las: 2018-03-16 20:46:54
+5821 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Gladys se termino de atender a las: 2018-03-16 20:46:55
+7158 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Jose Rafael se termino de atender a las: 2018-03-16 20:46:56
+7204 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Lina se termino de atender a las: 2018-03-16 20:46:56
+7742 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Angela se termino de atender a las: 2018-03-16 20:46:57
+8062 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Isabella se termino de atender a las: 2018-03-16 20:46:57
+8368 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Luisa se termino de atender a las: 2018-03-16 20:46:57
+8579 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Jose se termino de atender a las: 2018-03-16 20:46:57
+9562 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Rafael se termino de atender a las: 2018-03-16 20:46:58
+9767 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Fabio Martinez Torres se termino de atender a las: 2018-03-16 20:46:59
+10870 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Elsa se termino de atender a las: 2018-03-16 20:47:00
+54148 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+54149 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:47:43
+55060 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+55061 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:47:44
+56156 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+56157 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:47:45
+59514 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:47:48
+63245 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:47:52
+63582 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:47:52
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:43
+1909 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:45
+3734 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:47
+7525 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:51
+7937 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:49:51
+10330 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:49:54
+10701 [pool-5-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:54
+10934 [pool-6-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:54
+11117 [pool-7-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:55
+11302 [pool-8-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:55
+11486 [pool-9-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:55
+11573 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:49:55
+11678 [pool-10-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:55
+11861 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+11862 [pool-11-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:55
+12045 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+12046 [pool-12-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:55
+12246 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+12247 [pool-13-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:56
+12446 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+12446 [pool-14-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:56
+12629 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+12630 [pool-15-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:56
+12774 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+12774 [pool-16-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:49:56
+12824 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:49:56
+16715 [pool-6-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:00
+17101 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+17102 [pool-17-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Usuario a las: 2018-03-16 20:50:01
+18902 [pool-15-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:02
+19336 [pool-13-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:03
+19466 [pool-8-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:03
+19488 [pool-7-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:03
+19749 [pool-5-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:03
+20045 [pool-12-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:03
+20148 [pool-11-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:04
+20502 [pool-10-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:04
+20921 [pool-16-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:04
+21334 [pool-9-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:05
+22227 [pool-14-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:06
+25316 [pool-17-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Usuario se termino de atender a las: 2018-03-16 20:50:09
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Fabio Martinez Torres a las: 2018-03-16 20:52:25
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Angela a las: 2018-03-16 20:52:25
+1    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Alejandra a las: 2018-03-16 20:52:25
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Isabella a las: 2018-03-16 20:52:25
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Jose a las: 2018-03-16 20:52:25
+2    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Jose Rafael a las: 2018-03-16 20:52:25
+2    [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Elsa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Lina a las: 2018-03-16 20:52:25
+3    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Gladys a las: 2018-03-16 20:52:25
+3    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Luisa a las: 2018-03-16 20:52:25
+3    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Rafael a las: 2018-03-16 20:52:25
+6053 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Luisa se termino de atender a las: 2018-03-16 20:52:31
+6054 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - Inicia atendiento a cliente: Elsa a las: 2018-03-16 20:52:31
+6077 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Gladys se termino de atender a las: 2018-03-16 20:52:31
+6470 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Isabella se termino de atender a las: 2018-03-16 20:52:31
+6825 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Rafael se termino de atender a las: 2018-03-16 20:52:31
+6920 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Alejandra se termino de atender a las: 2018-03-16 20:52:32
+6923 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Angela se termino de atender a las: 2018-03-16 20:52:32
+6959 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Jose se termino de atender a las: 2018-03-16 20:52:32
+8372 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Fabio Martinez Torres se termino de atender a las: 2018-03-16 20:52:33
+8706 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Lina se termino de atender a las: 2018-03-16 20:52:33
+8898 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Jose Rafael se termino de atender a las: 2018-03-16 20:52:33
+12175 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  - El cliente: Elsa se termino de atender a las: 2018-03-16 20:52:37
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 20:56:37
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 20:56:37
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 20:56:37
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 20:56:37
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 20:56:37
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 20:56:37
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 20:56:37
+15   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 20:56:37
+15   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 20:56:37
+16   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 20:56:37
+5096 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 20:56:42
+5606 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 20:56:43
+6632 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 20:56:44
+6817 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 20:56:44
+6913 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 20:56:44
+8420 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 20:56:45
+8882 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 20:56:46
+9365 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 20:56:46
+9445 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 20:56:46
+9664 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 20:56:47
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:02:20
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:02:20
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:02:20
+13   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:02:20
+13   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:02:20
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:02:20
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:02:20
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:02:20
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:02:20
+14   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:02:20
+5052 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:02:25
+5160 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:02:25
+5279 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:02:25
+5762 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:02:26
+5851 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:02:26
+6569 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:02:27
+6677 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:02:27
+8310 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:02:28
+8668 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:02:29
+9637 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:02:30
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:04:36
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:04:36
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:04:36
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:04:36
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:04:36
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:04:36
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:04:36
+0    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:04:36
+14   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:04:36
+14   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:04:36
+5336 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:04:41
+5550 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:04:41
+5822 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:04:41
+6086 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:04:42
+7411 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:04:43
+8075 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:04:44
+8353 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:04:44
+8798 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:04:44
+9009 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:04:45
+9436 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:04:45
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:06:01
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:06:01
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:06:01
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:06:01
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:06:01
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:06:01
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:06:01
+12   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:06:01
+12   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:06:01
+12   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:06:01
+5715 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:06:07
+5932 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:06:07
+6092 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:06:07
+6226 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6226 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6227 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:06:07
+6227 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:06:07
+6227 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6228 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6228 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:06:07
+6228 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6228 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:06:07
+6229 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6229 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:06:07
+6230 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6230 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:06:07
+6230 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6231 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:06:07
+6231 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6231 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:06:07
+6232 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6232 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:06:07
+6233 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:06:07
+6258 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:06:07
+7731 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7731 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7732 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:06:09
+7732 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7732 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:06:09
+7733 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:06:09
+7733 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7733 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7733 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:06:09
+7734 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7734 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:06:09
+7735 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7735 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:06:09
+7736 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7736 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:06:09
+7736 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7736 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:06:09
+7737 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7737 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:06:09
+7738 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:06:09
+7868 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:06:09
+8055 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:06:09
+8340 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:06:09
+8486 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:06:10
+8615 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:06:10
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:06:24
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:06:24
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:06:24
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:06:24
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:06:24
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:06:24
+0    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:06:24
+13   [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:06:24
+13   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:06:24
+13   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:06:24
+1023 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1024 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1024 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:06:25
+1024 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1024 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:06:25
+1025 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1025 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:06:25
+1025 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1025 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:06:25
+1026 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1026 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:06:25
+1026 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1026 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:06:25
+1026 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1026 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:06:25
+1027 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1027 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:06:25
+1027 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1027 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:06:25
+1028 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:06:25
+1623 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1623 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1623 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:06:26
+1623 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1624 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:06:26
+1624 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:06:26
+1624 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1625 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1625 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:06:26
+1625 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1625 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:06:26
+1625 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1625 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:06:26
+1626 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1626 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:06:26
+1626 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1626 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:06:26
+1626 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1626 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:06:26
+1627 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:06:26
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:06:40
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:06:40
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:06:40
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:06:40
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:06:40
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:06:40
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:06:40
+10   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:06:40
+10   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:06:40
+10   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:06:40
+903  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+903  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+904  [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:06:41
+904  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+904  [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:06:41
+904  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+904  [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:06:41
+904  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+905  [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:06:41
+905  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+905  [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:06:41
+905  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+905  [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:06:41
+906  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+906  [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:06:41
+906  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+906  [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:06:41
+906  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+906  [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:06:41
+907  [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:06:41
+1750 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1751 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:06:42
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:07:43
+4    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:07:43
+4    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:07:43
+13   [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:07:43
+14   [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:07:43
+19   [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:07:43
+22   [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:07:43
+23   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:07:43
+25   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:07:43
+26   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:07:43
+5491 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:07:48
+6260 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:07:49
+6700 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:07:49
+7137 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:07:50
+7369 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:07:50
+8061 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:07:51
+8794 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:07:51
+8881 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:07:52
+9216 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:07:52
+9571 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:07:52
+30793 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+44673 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:08:27
+53668 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:08:36
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:10:12
+7810 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:10:20
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:11:41
+1    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:11:41
+1    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:11:41
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:11:41
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:11:41
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:11:41
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:11:41
+1    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:11:41
+2    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:11:41
+2    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:11:41
+1282 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1283 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1283 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:11:43
+1283 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1283 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:11:43
+1284 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1284 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:11:43
+1284 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1284 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:11:43
+1284 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1285 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1285 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1286 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1286 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:11:43
+1286 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:11:43
+1286 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1286 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:11:43
+1288 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:11:43
+1289 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:11:43
+1290 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:11:43
+1739 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1739 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1739 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:11:43
+1739 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1740 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:11:43
+1740 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:11:43
+1740 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1740 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1740 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:11:43
+1741 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1741 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:11:43
+1741 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1741 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:11:43
+1741 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1741 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:11:43
+1743 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1743 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:11:43
+1743 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1743 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:11:43
+1744 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:11:43
+2043 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2043 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2043 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:11:43
+2044 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2044 [pool-4-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:11:43
+2044 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2045 [pool-4-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:11:43
+2050 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2051 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2051 [pool-4-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:11:43
+2051 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2052 [pool-4-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:11:43
+2051 [pool-4-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:11:43
+2052 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2053 [pool-4-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:11:43
+2053 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2053 [pool-4-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:11:43
+2054 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2054 [pool-4-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:11:43
+2054 [pool-4-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:11:43
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:11:53
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:12:31
+1463 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:12:33
+2679 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:12:34
+3383 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:12:34
+3832 [pool-5-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Supervisor a las  2018-03-16 21:12:35
+4023 [pool-6-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Supervisor a las  2018-03-16 21:12:35
+4216 [pool-7-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Supervisor a las  2018-03-16 21:12:35
+4392 [pool-8-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Director a las  2018-03-16 21:12:35
+4624 [pool-9-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Director a las  2018-03-16 21:12:36
+4816 [pool-10-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Director a las  2018-03-16 21:12:36
+5182 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:12:36
+6671 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6672 [pool-11-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:12:38
+7159 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7160 [pool-12-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:12:38
+8762 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8762 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8762 [pool-13-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:12:40
+8763 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8763 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8764 [pool-13-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:12:40
+8764 [pool-13-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:12:40
+8766 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8766 [pool-13-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:12:40
+8767 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8767 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8768 [pool-13-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:12:40
+8768 [pool-13-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:12:40
+8769 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8769 [pool-13-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:12:40
+8769 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8769 [pool-13-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:12:40
+8770 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+8770 [pool-13-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:12:40
+8771 [pool-13-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:12:40
+9576 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:12:41
+9605 [pool-7-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Supervisor a las  2018-03-16 21:12:41
+1    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:14:46
+6490 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:14:53
+6491 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:14:53
+6491 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:14:53
+6492 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:14:53
+6492 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:14:53
+6493 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:14:53
+6493 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:14:53
+6493 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:14:53
+6494 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:14:53
+6494 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+6495 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:14:53
+6812 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:14:53
+7231 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7232 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7232 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:14:54
+7232 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7232 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:14:54
+7233 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7233 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:14:54
+7233 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7233 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:14:54
+7234 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7234 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:14:54
+7235 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7235 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:14:54
+7235 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7235 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:14:54
+7236 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7236 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+7236 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:14:54
+7236 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:14:54
+7237 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:14:54
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:15:55
+1    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:15:55
+1    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:15:55
+1    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:15:55
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:15:55
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:15:55
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:15:55
+2    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:15:55
+2    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:15:55
+2    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:15:55
+927  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+927  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+928  [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:15:56
+928  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+928  [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:15:56
+928  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+928  [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:15:56
+929  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+929  [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:15:56
+929  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+929  [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:15:56
+929  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+929  [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:15:56
+930  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+930  [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:15:56
+930  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+930  [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:15:56
+931  [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+931  [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:15:56
+931  [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:15:56
+1943 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+1943 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:15:57
+5022 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:16:00
+5353 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:16:01
+5356 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:16:01
+6104 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:16:01
+6622 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el  a las  2018-03-16 21:16:02
+6800 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el  a las  2018-03-16 21:16:02
+6950 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el  a las  2018-03-16 21:16:02
+1    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:17:36
+1556 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:17:38
+2438 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:17:39
+2439 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:17:39
+2439 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Supervisor a las  2018-03-16 21:17:39
+2440 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:17:39
+2440 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:17:39
+2440 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Director a las  2018-03-16 21:17:39
+2441 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:17:39
+2441 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2441 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:17:39
+2442 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:17:39
+2442 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+2443 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:17:39
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:18:18
+6590 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:18:25
+17491 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:18:36
+17497 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:18:36
+17494 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:18:36
+17510 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:18:36
+17500 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:18:36
+17499 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:18:36
+17526 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+17526 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:18:36
+17515 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:18:36
+17514 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:18:36
+17537 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:18:36
+23093 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:18:41
+23450 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:18:42
+24128 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:18:42
+25184 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:18:43
+25276 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:18:43
+25382 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Director a las  2018-03-16 21:18:44
+26310 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el  a las  2018-03-16 21:18:45
+26453 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:18:45
+26665 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:18:45
+26826 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Supervisor a las  2018-03-16 21:18:45
+1    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:19:01
+5357 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:19:07
+5358 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:19:07
+5358 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:19:07
+5359 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:19:07
+5359 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:19:07
+5360 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:19:07
+5360 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:19:07
+5361 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:19:07
+5361 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+5361 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:19:07
+5362 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:19:07
+6341 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:19:08
+10773 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Director a las  2018-03-16 21:19:12
+11613 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:19:13
+12183 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el  a las  2018-03-16 21:19:14
+13156 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:19:15
+13340 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:19:15
+13502 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:19:15
+13674 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:19:15
+13726 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:19:15
+13871 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:19:15
+14030 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Supervisor a las  2018-03-16 21:19:16
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:25:10
+2    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:25:10
+2    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:25:10
+3    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:25:10
+4    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:25:10
+4    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:25:10
+4    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:25:10
+5    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:25:10
+5    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:25:10
+5    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:25:10
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:25:55
+3    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:25:55
+4    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:25:55
+5    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:25:55
+6    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:25:55
+7    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:25:55
+8    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:25:55
+8    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:25:55
+9    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:25:55
+10   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:25:55
+6162 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:26:02
+6501 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:26:02
+6541 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Supervisor a las  2018-03-16 21:26:02
+6984 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:26:02
+7117 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Director a las  2018-03-16 21:26:03
+7767 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:26:03
+8627 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:26:04
+8810 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:26:04
+9315 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:26:05
+9975 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:26:05
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:29:17
+1    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:29:17
+2    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:29:17
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:29:17
+2    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:29:17
+3    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:29:17
+3    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:29:17
+3    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:29:17
+3    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:29:17
+4    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:29:17
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:30:58
+5    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:30:58
+6    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:30:58
+6    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:30:58
+12   [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:30:58
+13   [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:30:58
+14   [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:30:58
+15   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:30:58
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:35:47
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:36:10
+1    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:36:10
+1    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:36:10
+1    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:36:10
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:36:10
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:36:10
+2    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:36:10
+2    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:36:10
+3    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:36:10
+3    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:36:10
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:39:22
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:39:22
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:39:22
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:39:22
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:39:22
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:39:22
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:39:22
+13   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:39:22
+14   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:39:22
+16   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:39:22
+5557 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:39:28
+6187 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:39:28
+7630 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:39:30
+7783 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:39:30
+8257 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:39:30
+8304 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:39:30
+9046 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:39:31
+9153 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:39:31
+9383 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:39:32
+9987 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:39:32
+25270 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+25282 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:39:47
+32033 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:39:54
+40754 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Fabio Martinez Torres, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40755 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Isabella, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40755 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el  a las  2018-03-16 21:40:03
+40756 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Angela, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40756 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el  a las  2018-03-16 21:40:03
+40756 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Alejandra, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40757 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el  a las  2018-03-16 21:40:03
+40757 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el  a las  2018-03-16 21:40:03
+40757 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40758 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Jose, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40758 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el  a las  2018-03-16 21:40:03
+40759 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Gladys, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40759 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el  a las  2018-03-16 21:40:03
+40759 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Luisa, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40759 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el  a las  2018-03-16 21:40:03
+40760 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Rafael, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40760 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el  a las  2018-03-16 21:40:03
+40761 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+40761 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:40:03
+40762 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el  a las  2018-03-16 21:40:03
+46428 [pool-3-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el  a las  2018-03-16 21:40:09
+47310 [pool-3-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el  a las  2018-03-16 21:40:09
+47602 [pool-3-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el  a las  2018-03-16 21:40:10
+47975 [pool-3-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el  a las  2018-03-16 21:40:10
+48334 [pool-3-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el  a las  2018-03-16 21:40:10
+48497 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el  a las  2018-03-16 21:40:11
+49923 [pool-3-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el  a las  2018-03-16 21:40:12
+49953 [pool-3-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el  a las  2018-03-16 21:40:12
+49972 [pool-3-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el  a las  2018-03-16 21:40:12
+50393 [pool-3-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el  a las  2018-03-16 21:40:13
+61892 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+61898 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:40:24
+69256 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:40:31
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:40:50
+6794 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:40:57
+9861 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:41:00
+9861 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:41:00
+9869 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:41:00
+9870 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:41:00
+9870 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:41:00
+9870 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:41:00
+9871 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:41:00
+9872 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:41:00
+9872 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+9872 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:41:00
+9873 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:41:00
+15075 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:41:05
+15431 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:41:06
+15577 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:41:06
+17297 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Director a las  2018-03-16 21:41:08
+18025 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:41:08
+18148 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:41:09
+18558 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Supervisor a las  2018-03-16 21:41:09
+19249 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:41:10
+19346 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:41:10
+19551 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el  a las  2018-03-16 21:41:10
+120086 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+120099 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:42:50
+128926 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:42:59
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:45:06
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:45:06
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:45:06
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:45:06
+12   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:45:06
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:45:06
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:45:06
+0    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:45:06
+12   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:45:06
+13   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:45:06
+5548 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:45:12
+5608 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:45:12
+6236 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:45:12
+6683 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:45:13
+6725 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:45:13
+7358 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:45:13
+7501 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:45:13
+7841 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:45:14
+8581 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:45:15
+9415 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:45:15
+14898 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+14909 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:45:21
+20658 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:45:27
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:47:47
+0    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:47:47
+0    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 21:47:47
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:47:47
+0    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:47:47
+0    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:47:47
+10   [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:47:47
+10   [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 21:47:47
+10   [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:47:47
+10   [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 21:47:47
+5050 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:47:52
+5345 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 21:47:52
+6479 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 21:47:54
+6906 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:47:54
+7216 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:47:54
+8555 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 21:47:56
+9279 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:47:56
+9428 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:47:57
+9962 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:47:57
+9991 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:47:57
+16882 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+16894 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:48:04
+21943 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:48:09
+57568 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+57581 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:48:45
+58892 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+58893 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:48:46
+59133 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+59133 [pool-5-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:48:46
+59325 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+59325 [pool-6-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:48:46
+65655 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:48:53
+66333 [pool-6-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:48:53
+66796 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:48:54
+68914 [pool-5-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 21:48:56
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:51:58
+8454 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:52:06
+25231 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:52:23
+25232 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 21:52:23
+25232 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 21:52:23
+25233 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Supervisor a las  2018-03-16 21:52:23
+25233 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 21:52:23
+25234 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 21:52:23
+25234 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Director a las  2018-03-16 21:52:23
+25235 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 21:52:23
+25236 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 21:52:23
+25236 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Lina, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+25237 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el  a las  2018-03-16 21:52:23
+30354 [pool-2-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Director a las  2018-03-16 21:52:28
+30629 [pool-2-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el  a las  2018-03-16 21:52:28
+31059 [pool-2-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 21:52:29
+31285 [pool-2-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 21:52:29
+31449 [pool-2-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 21:52:29
+34228 [pool-2-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Supervisor a las  2018-03-16 21:52:32
+34398 [pool-2-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 21:52:32
+34403 [pool-2-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 21:52:32
+34736 [pool-2-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 21:52:32
+34965 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:52:33
+43249 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+43254 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 21:52:41
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:53:21
+8368 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:53:30
+15903 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:53:37
+23763 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:53:45
+25513 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 21:53:47
+25513 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25513 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25514 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25514 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25514 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25514 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25514 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25515 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+25515 [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+31860 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 21:53:53
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:56:50
+5539 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:56:56
+9479 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:57:00
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-16 21:57:38
+7427 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-16 21:57:46
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 22:08:01
+9001 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 22:08:10
+9181 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 22:08:10
+18003 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-16 22:08:19
+18565 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-16 22:08:20
+24030 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-16 22:08:25
+27007 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-16 22:08:28
+36009 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-16 22:08:37
+36701 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-16 22:08:38
+45012 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-16 22:08:46
+45633 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-16 22:08:47
+53017 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-16 22:08:54
+54015 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-16 22:08:55
+63018 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-16 22:09:04
+63755 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-16 22:09:05
+69233 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-16 22:09:10
+72021 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-16 22:09:13
+77356 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-16 22:09:18
+81025 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-16 22:09:22
+90037 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+90039 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 22:09:31
+90769 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-16 22:09:32
+99807 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 22:09:41
+117695 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+117696 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 22:09:59
+126313 [pool-3-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 22:10:07
+147759 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+147760 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-16 22:10:29
+155653 [pool-4-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-16 22:10:37
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 22:10:54
+6004 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-16 22:11:00
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-16 22:14:50
+0    [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+12   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+13   [AWT-EventQueue-0] ERROR com.callcenter.dispatcher.Dispatcher  - Ocurrio un error en el proceso 
+6489 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-16 22:14:57
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 08:01:11
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 08:01:11
+2    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 08:01:11
+1    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 08:01:11
+1    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 08:01:11
+1    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 08:01:11
+3    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 08:01:11
+4    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 08:01:11
+4    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 08:01:11
+4    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 08:01:11
+6700 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-18 08:01:18
+6706 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-18 08:01:18
+6878 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-18 08:01:18
+7353 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-18 08:01:18
+7389 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-18 08:01:19
+7734 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-18 08:01:19
+8093 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-18 08:01:19
+8150 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-18 08:01:19
+9000 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-18 08:01:20
+9457 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-18 08:01:21
+32780 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+32781 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-18 08:01:44
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 08:06:07
+1    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 08:06:07
+1    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 08:06:07
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 08:06:07
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 08:06:07
+2    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 08:06:07
+2    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 08:06:07
+2    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 08:06:07
+2    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 08:06:07
+3    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 08:06:07
+5733 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-18 08:06:13
+5984 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-18 08:06:13
+6276 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-18 08:06:14
+6519 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-18 08:06:14
+6930 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-18 08:06:14
+8253 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-18 08:06:16
+8775 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-18 08:06:16
+9512 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-18 08:06:17
+9604 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-18 08:06:17
+9681 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-18 08:06:17
+15301 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+15302 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-18 08:06:23
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-18 08:14:49
+7302 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-18 08:14:56
+65196 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el Operador a las  2018-03-18 08:15:54
+74582 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el Operador a las  2018-03-18 08:16:03
+0    [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Fabio Martinez Torres fue atendido por el Operador a las  2018-03-18 08:19:01
+0    [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Isabella fue atendido por el Operador a las  2018-03-18 08:19:01
+1    [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose Rafael fue atendido por el Supervisor a las  2018-03-18 08:19:01
+1    [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Alejandra fue atendido por el Operador a las  2018-03-18 08:19:01
+2    [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Jose fue atendido por el Supervisor a las  2018-03-18 08:19:01
+2    [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Luisa fue atendido por el Director a las  2018-03-18 08:19:01
+3    [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Rafael fue atendido por el Director a las  2018-03-18 08:19:01
+3    [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Lina fue atendido por el Director a las  2018-03-18 08:19:01
+3    [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Angela fue atendido por el Operador a las  2018-03-18 08:19:01
+4    [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Gladys fue atendido por el Supervisor a las  2018-03-18 08:19:01
+5676 [pool-1-thread-3] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Angela por el Operador a las  2018-03-18 08:19:07
+6101 [pool-1-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Fabio Martinez Torres por el Operador a las  2018-03-18 08:19:07
+6806 [pool-1-thread-8] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Luisa por el Director a las  2018-03-18 08:19:08
+7128 [pool-1-thread-6] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose por el Supervisor a las  2018-03-18 08:19:09
+7728 [pool-1-thread-2] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Isabella por el Operador a las  2018-03-18 08:19:09
+7832 [pool-1-thread-10] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Lina por el Director a las  2018-03-18 08:19:09
+7921 [pool-1-thread-7] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Gladys por el Supervisor a las  2018-03-18 08:19:09
+8811 [pool-1-thread-5] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Jose Rafael por el Supervisor a las  2018-03-18 08:19:10
+8820 [pool-1-thread-9] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Rafael por el Director a las  2018-03-18 08:19:10
+9838 [pool-1-thread-4] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Alejandra por el Operador a las  2018-03-18 08:19:11
+22565 [AWT-EventQueue-0] INFO  com.callcenter.dispatcher.Dispatcher  - Apreciado Usuario, en el momento no tenemos disponibilidad, se puesto en espera y luego sera atendido.
+22566 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  El cliente  Usuario fue atendido por el  a las  2018-03-18 08:19:24
+30562 [pool-2-thread-1] INFO  com.callcenter.thread.EmpleadoThread  -  Se termino de atender al cliente Usuario por el  a las  2018-03-18 08:19:32

@@ -14,7 +14,13 @@ import javax.swing.JList;
  */
 public class UtilidadLista {
 
-    public static void llenarJlist(String valor, DefaultListModel modeloLista, JList<String> jList1) {
+	/**
+	 * Metodo utilizado para llenar un Jlist
+	 * @param valor
+	 * @param modeloLista
+	 * @param jList1
+	 */
+    public static void llenarJlist(String valor, DefaultListModel<String> modeloLista, JList<String> jList1) {
         modeloLista.addElement(valor);
         jList1.setModel(modeloLista);
     }

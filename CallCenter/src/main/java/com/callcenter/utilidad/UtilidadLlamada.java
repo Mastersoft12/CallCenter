@@ -5,19 +5,21 @@
  */
 package com.callcenter.utilidad;
 
-import com.callcenter.dto.PeticionDTO;
-import com.callcenter.dto.RespuestaDTO;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
-import org.apache.log4j.BasicConfigurator;
+
+import com.callcenter.dto.PeticionDTO;
 
 /**
  *
  * @author faamarti
  */
 public class UtilidadLlamada {
-
+    /**
+     * Genera la data para realizar pruebas
+     * @return
+     */
     public static  List<PeticionDTO> obtenerLLamadas() {
         List<PeticionDTO> listPeticion = new ArrayList<>();
         listPeticion.add(new PeticionDTO("Fabio Martinez Torres", LocalTime.now()));
@@ -30,7 +32,6 @@ public class UtilidadLlamada {
         listPeticion.add(new PeticionDTO("Luisa", LocalTime.now()));
         listPeticion.add(new PeticionDTO("Rafael", LocalTime.now()));
         listPeticion.add(new PeticionDTO("Lina", LocalTime.now()));
-        listPeticion.add(new PeticionDTO("Elsa", LocalTime.now()));
         return listPeticion;
     }
 

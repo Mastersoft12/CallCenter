@@ -15,6 +15,8 @@ public class UtilidadMensaje {
 	
 	public static final String ERROR_PROCESO = "Ocurrio un error en el proceso ";
 	
+	public static final String ERROR_FRAME = "Ocurrio un error: ";
+	
 	private UtilidadMensaje(){
 	}
 	

@@ -5,18 +5,16 @@
  */
 package com.callcenter;
 
-import com.callcenter.dispatcher.Dispatcher;
-import com.callcenter.dto.PeticionDTO;
-import com.callcenter.dto.RespuestaDTO;
-import com.callcenter.utilidad.UtilidadLista;
-import com.callcenter.utilidad.UtilidadLlamada;
 import java.time.LocalTime;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Supplier;
+
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
-import org.apache.log4j.BasicConfigurator;
+
+import com.callcenter.dispatcher.Dispatcher;
+import com.callcenter.dto.PeticionDTO;
+import com.callcenter.utilidad.UtilidadLlamada;
 
 /**
  *

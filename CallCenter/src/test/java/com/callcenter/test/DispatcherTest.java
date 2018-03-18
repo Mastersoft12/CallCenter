@@ -2,7 +2,7 @@ package com.callcenter.test;
 
 import java.util.ArrayList;
 import java.util.List;
-import junit.framework.Assert;
+import java.util.function.Supplier;
 
 import org.junit.Test;
 
@@ -10,8 +10,10 @@ import com.callcenter.dispatcher.Dispatcher;
 import com.callcenter.dto.PeticionDTO;
 import com.callcenter.dto.RespuestaDTO;
 import com.callcenter.utilidad.UtilidadLlamada;
-import java.util.function.Supplier;
 
+import junit.framework.Assert;
+
+@SuppressWarnings("deprecation")
 public class DispatcherTest {
 
     @Test

@@ -13,7 +13,7 @@ import com.callcenter.thread.EmpleadoThread;
 import com.callcenter.utilidad.TipoEmpleadoEnum;
 import com.callcenter.utilidad.UtilidadMensaje;
 
-public class Dispatcher {
+public class Dispatcher implements IDispatcher {
 
 	private final Logger log = Logger.getLogger(Dispatcher.class);
 
@@ -24,19 +24,19 @@ public class Dispatcher {
 	private int cantidadSupervisor;
 
 	private ExecutorService executor;
-	
 
 	/**
-	 * 
+	 * Metodo encargado de atender las llamadas entrantes
 	 * @param peticionDTO
 	 * @return
 	 */
+	@Override
 	public RespuestaDTO dispatchCall(PeticionDTO peticionDTO) {
 		iniciarVariables();
+		int empleadosOcupados = 0;
 		RespuestaDTO respuesta = new RespuestaDTO();
 		try {
-			int empleadosOcupados = buscarEmpleadosOcupados();
-			System.err.println("Empleados:"+empleadosOcupados);
+			empleadosOcupados = buscarEmpleadosOcupados();
 			if (validadDisponibilidadEmpleado(empleadosOcupados)) {
 				respuesta = asignarEmpladoPeticion(peticionDTO, empleadosOcupados);
 			} else {
@@ -71,7 +71,7 @@ public class Dispatcher {
 	private RespuestaDTO asignarEmpladoPeticion(PeticionDTO peticionDTO, int empleadosOcupados) {
 		String empleado = TipoEmpleadoEnum.asignarEmpleado(
 				new EmpleadosDTO(empleadosOcupados, cantidadDirector, cantidadOperador, cantidadSupervisor));
-		EmpleadoThread empleadoThread = new EmpleadoThread(empleado, peticionDTO.getNombreCompletoCliente());
+		EmpleadoThread empleadoThread = new EmpleadoThread(empleado, peticionDTO.getNombreCompletoCliente(), executor);
 		executor.submit(empleadoThread);
 		return new RespuestaDTO(
 				UtilidadMensaje.generarMensajeAtendido(peticionDTO.getNombreCompletoCliente(), empleado), true);
@@ -94,7 +94,7 @@ public class Dispatcher {
 	 * @return
 	 */
 	private int buscarEmpleadosOcupados() {
-		return EmpleadoThread.activeCount()-1;
+		return Thread.activeCount() - 1;
 	}
 
 	public void iniciarVariables() {
